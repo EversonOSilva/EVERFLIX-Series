@@ -4,6 +4,12 @@ Projeto Fase 2 da disciplina de Desenvolvimento de Sistemas FrontEnd (PUCRS)
 
 Aplicação web completa para gerenciamento e catalogação de séries de TV com arquitetura cliente-servidor. Permite cadastrar, listar, editar e excluir séries com interface moderna inspirada na Netflix e persistência de dados em servidor Node.js/Express.
 
+## Evidências do funcionamento do projeto:
+- Home.PNG localizada dentro da pasta src\img - Mostra a página inicial do projeto com uma recepção e uma breve explicação;
+- Sobre.PNG localizada dentro da pasta src\img - Clicando no menu sanduíche de qualquer página ou no botão sobre da página inicial - tem alguns detalhes do projeto;
+- Cadastro.PNG localizada dentro da pasta src\img - Clicando no menu sanduíche de qualquer página ou no botão Cadastro da página inicial - tem um formulário para preenchimento e cadastro de séries
+- Lista.PNG localizada dentro da pasta src\img - Clicando no menu sanduíche de qualquer página ou no botão Lista da página inicial - Lista todas as séries cadastradas e possibilita editar e excluir séries, mantendo persistência em arquivo JSON.
+
 ## 🎯 Visão Geral
 
 - **Frontend**: Aplicação React moderna com Vite, Material-UI e React Router
@@ -40,7 +46,7 @@ Aplicação web completa para gerenciamento e catalogação de séries de TV com
 ### 1. Clone e navegue até o projeto
 
 ```bash
-cd "Caminho\Para\Desenvolvimentos de Sistemas FrontEnd\fase2"
+cd "Área de Trabalho\everson_oliveira_da_silva-projeto-fase-2\fase2"
 ```
 
 ### 2. Instale dependências do Frontend
