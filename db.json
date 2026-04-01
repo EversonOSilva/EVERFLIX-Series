@@ -1,0 +1,74 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "titulo": "Breaking Bad",
+      "categoria": "Drama",
+      "autor": "Vince Gilligan",
+      "temporadas": "5",
+      "lancamento": "2008",
+      "assistidoEm": "2024-10-10",
+      "sinopse": "Professor de química vira fabricante de metanfetamina para garantir o futuro de sua família."
+    },
+    {
+      "id": 2,
+      "titulo": "Game of Thrones",
+      "categoria": "Fantasia",
+      "autor": "George R. R. Martin",
+      "temporadas": "8",
+      "lancamento": "2011",
+      "assistidoEm": "2023-08-26",
+      "sinopse": "Conflito entre famílias nobres pela posse do Trono de Ferro de Westeros."
+    },
+    {
+      "id": 3,
+      "titulo": "Casa do Dragão",
+      "categoria": "Fantasia",
+      "autor": "George R. R. Martin",
+      "temporadas": "1",
+      "lancamento": "2022",
+      "assistidoEm": "2024-02-20",
+      "sinopse": "Pré-sequência de Game of Thrones que conta a história da Casa Targaryen."
+    },
+    {
+      "id": 4,
+      "titulo": "The Walking Dead",
+      "categoria": "Horror",
+      "autor": "Robert Kirkman",
+      "temporadas": "11",
+      "lancamento": "2010",
+      "assistidoEm": "2023-12-05",
+      "sinopse": "Grupo de sobreviventes luta para viver tras fim do mundo zumbi."
+    },
+    {
+      "id": 5,
+      "titulo": "Stranger Things",
+      "categoria": "Ficção Científica",
+      "autor": "Duffer Brothers",
+      "temporadas": "4",
+      "lancamento": "2016",
+      "assistidoEm": "2024-04-10",
+      "sinopse": "Crianças enfrentam fenômenos estranhos em pequena cidade."
+    },
+    {
+      "id": 6,
+      "titulo": "The Mandalorian",
+      "categoria": "Ação",
+      "autor": "Jon Favreau",
+      "temporadas": "3",
+      "lancamento": "2019",
+      "assistidoEm": "2024-01-15",
+      "sinopse": "Caçador de recompensas no universo Star Wars protege ser especial."
+    },
+    {
+      "titulo": "Landman",
+      "categoria": "Drama",
+      "autor": "Taylor Sheridan",
+      "temporadas": "3",
+      "lancamento": "2024",
+      "assistidoEm": "2025-12-18",
+      "sinopse": "Operários e bilionários buscam fortuna no mundo do petróleo nas cidades em expansão do Texas. O executivo Tommy Norris tenta levar sua empresa ao topo dos negócios durante o boom do combustível.",
+      "id": 7
+    }
+  ]
+}
